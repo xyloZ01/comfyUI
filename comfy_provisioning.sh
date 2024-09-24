@@ -23,6 +23,7 @@ NODES=(
     "https://github.com/cubiq/ComfyUI_essentials"
     "https://github.com/rgthree/rgthree-comfy"
     "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
+    "https://github.com/WASasquatch/was-node-suite-comfyui"
     
 )
 
